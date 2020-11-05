@@ -10,3 +10,4 @@ def state_log(star_date)
 end
 
 def crew
+  
