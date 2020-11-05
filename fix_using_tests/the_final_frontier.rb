@@ -14,4 +14,4 @@ def crew
 end
 
 def greet_crew(crew)
-  crew.map 
+  crew.map {|
