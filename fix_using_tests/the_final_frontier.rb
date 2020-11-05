@@ -9,3 +9,4 @@ def state_log(star_date)
   "Captain's log, star date #{star_date}."
 end
 
+def crew
