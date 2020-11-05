@@ -10,4 +10,4 @@ def state_log(star_date)
 end
 
 def crew
-  ["Geordi", "Date", "Worf", ]
+  ["Geordi", "Date", "Worf", "William", ]
