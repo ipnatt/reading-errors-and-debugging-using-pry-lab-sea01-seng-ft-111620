@@ -18,3 +18,4 @@ def greet_crew(crew)
 end
 
 def engage
+  date = 
