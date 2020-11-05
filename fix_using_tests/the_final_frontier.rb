@@ -13,4 +13,5 @@ def crew
   ["Geordi", "Date", "Worf", "William", "Beverly", "Deanna"]
 end
 
-def greet_crew
+def greet_crew(crew)
+  
